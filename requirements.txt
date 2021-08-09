@@ -1,0 +1,9 @@
+numpy==1.18.5
+Keras==2.4.0
+imutils==0.5.4
+opencv_python==4.4.0.42
+Pillow==8.2.0
+scikit_learn==0.24.2
+python-dotenv==0.17.1
+tqdm==4.59.0
+captcha==0.3
